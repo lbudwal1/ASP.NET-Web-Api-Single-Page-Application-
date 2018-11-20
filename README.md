@@ -1,2 +1,3 @@
 # ASP.NET-Web-Api-Single-Page-Application-
-Web
+To Run to 
+Delete Migration First and Update database in Pacakage Console
